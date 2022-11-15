@@ -1,0 +1,3 @@
+[submodule "cmosrwdrv"]
+	path = cmosrwdrv
+	url = https://github.com/sermart1234/cmosrwdrv
